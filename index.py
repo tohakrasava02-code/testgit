@@ -1,2 +1,2 @@
-print(5)
-print('Annnnttttoooonnnn')
+print(67)
+print('Anton')
