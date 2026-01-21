@@ -6,3 +6,5 @@ print('jawa')
 print('wsgit')
 for i in range(20,100):
     print(i)
+for i in range(22):
+    print('Anton')
