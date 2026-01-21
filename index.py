@@ -1,2 +1,4 @@
 print(5)
 print(100)
+print('Anton')
+print('Roma')
