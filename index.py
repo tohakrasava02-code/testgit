@@ -11,3 +11,5 @@ print('wsgit')
 
 for i in range(67, 167):
     print(i)
+
+    print(12)
