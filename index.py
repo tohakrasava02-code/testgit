@@ -18,3 +18,8 @@ for i in a:
 
 hello = 'hgg\zjshdlj\ghf'
 print(len(hello))
+
+a = 13;
+b = 66?
+print(a+b
+print(a*b):
